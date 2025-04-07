@@ -1,1 +1,1 @@
-# odin-recipes
+This repo will contain the work to be done for the odin project of creating a recipes html file.
