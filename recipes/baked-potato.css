@@ -1,0 +1,16 @@
+#baked-potato-title{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(178, 192, 192);
+}
+#baked-potato-image{
+    display: block;
+    margin: auto;
+}
+.description-body{
+    border: 2px solid black;
+    margin: 20px 0px;
+    padding: 10px;
+    background-color: grey;
+}
